@@ -1,0 +1,14 @@
+{
+  "db": {
+    "port": 57856,
+    "host": "localhost",
+    "username": "user",
+    "password": "password"
+  },
+  "server": {
+    "port": 8080,
+    "address": "0.0.0.0"
+  },
+  "flavor": "mongodb",
+  "debug": true
+}
