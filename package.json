@@ -2,7 +2,7 @@
   "name": "crest",
   "description": "REST Server for MongoDB",
   "version": "0.0.4",
-  "author": "Ricard Aspeljung <ricard@opendia.se>",
+  "author": "Ricard Aspeljung <ricard@opendia.se> (Editing by Enrico Murru)",
   "main": "server.js",
   "directories": {
     "lib": "./lib"
@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/enreeco/crest.git"
+    "url": "git://github.com/enreeco/heroku-crest.git"
   },
   "bugs": {
-    "url": "https://github.com/enreeco/crest/issues"
+    "url": "https://github.com/enreeco/heroku-crest/issues"
   },
   "dependencies": {
     "mongodb": "1.2.x",

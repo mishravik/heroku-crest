@@ -1,7 +1,7 @@
 {
   "name": "MongoDB Rest Interface",
   "description": "Heroku porting for https://github.com/cordazar/crest/. Added basi authorization feature.",
-  "repository": "https://github.com/enreeco/crest",
+  "repository": "https://github.com/enreeco/heroku-crest",
   "logo": "https://avatars3.githubusercontent.com/u/2393696?v=3&s=460",
   "keywords": ["node", "express", "static"],
   "website": "https://enree.co/",
