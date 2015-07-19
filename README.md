@@ -11,7 +11,7 @@ Added support for authentication per request, using BASIC authentication:
 
     GET --header "Authorization: Basic [BASE64(username:password)]"
 
-Added support for $oid and $date BSON types
+Added support for $oid, $date and $regex BSON types
 
 You can deploy this app on Heroku for free using the following button:
 
