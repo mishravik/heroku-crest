@@ -1,6 +1,6 @@
 /**
  * Copyright 2013 Ricard Aspeljung. All Rights Reserved.
- *
+ * Last updates by Enrico Murru (2015) (http://enree.co)
  * server.js
  * crest
  */
