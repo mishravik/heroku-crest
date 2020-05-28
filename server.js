@@ -5,6 +5,9 @@
  * crest
  */
 
+
+process.EventEmitter = require("events").EventEmitter;
+
 var fs = require("fs"),
   mongodb = require("mongodb"),
   restify = module.exports.restify = require("restify");
